@@ -6,3 +6,4 @@ According to Mental Health America, over half (56%) of adults with a mental illn
 Employees experiencing mental health issues may struggle with concentration, decision-making, and completing tasks efficiently.
 Decreased productivity can result from increased absenteeism (taking sick leave) and presenteeism (being physically present but mentally unwell and unproductive).
 Companies that neglect mental health can suffer reputational damage, affecting their attractiveness to potential employees and customers.
+### ![image](https://github.com/Caseypatel/Mental-Health-Analysis/assets/96093912/4985286f-22e8-4dcf-9d19-ff91a738f0a7)
